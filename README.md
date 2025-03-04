@@ -1,6 +1,5 @@
 # Kubernetes-Installation-Ramu360
-Kubernetes Installation using kops
-Kubernetes-Zero-to-Hero
+#Kubernetes Installation using kops
 Creating this repo to make Kubernetes easy for begineers.
 Kubernetes Installation Using KOPS on EC2
 Create an EC2 instance.
